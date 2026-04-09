@@ -21,7 +21,6 @@ from contextlib import asynccontextmanager
 import numpy as np
 from sklearn.ensemble import IsolationForest
 from difflib import SequenceMatcher
-import aioredis
 from datetime import datetime as dt
 
 # ==================== DATA MODELS ====================
